@@ -16,9 +16,9 @@
 - Regions - São os paises (us, br, etc)
 - Avaliability zone - Data center dentro das regiões
 
-# EC2
-## Tipos de instâncias EC2
-- São os tipos de maquinas que tem disponiveis para utilizar - https://aws.amazon.com/pt/ec2/instance-types/
+# EC2 
+## Tipos de instâncias EC2 - https://aws.amazon.com/pt/ec2/instance-types/
+- São os tipos de maquinas que tem disponiveis para utilizar
 
 ### Volumes EBS (Elastic Block Store)
 - É o disco virtual da nossa maquina na EC2 - chamado de EBS 

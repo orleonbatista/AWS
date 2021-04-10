@@ -24,4 +24,5 @@
 - É o disco virtual da nossa maquina na EC2 - chamado de EBS 
 - facil upgrade
 - Dois tipos de disco
-- - teste
+- - HDD - mais recomendados para armazenamento de arquivos, baixa IOPS
+- - SSD - mais utilizado normalmente para aplicações por ser mais rápido, rapida IOPS (IOI e GPS, IOI é o mais rapido e muito melhor)

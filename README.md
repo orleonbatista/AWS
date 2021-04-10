@@ -29,5 +29,13 @@
 
 ## EC2 Pricing
 - Toda cobrança na AWS é feita por segundo
-* 4 tipos :
-*
+- 4 tipos :
+- - On-demand - de acordo com a necessidade $$$
+- - Reserved - você já tem a quantidade de processamento, memoria que vai precisar, 90% mais barato.
+- - - 2 tipos reserved:
+- - - - Standard : 75% mais barato, problema é que se voce escolhe o tipo de maquina, não consegue fazer o upgrade
+- - - - Convertable : 50% mais barato, consegue mudar de maquina
+- - Spot - Stock Market, você da uma oferta, mais ultilizado em um curto espaço de tempo
+- - Dedicated host - mais seguro, nele você "aluga" o hardware, com dois tipos:
+- - - on demand
+- - - reserved

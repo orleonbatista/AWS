@@ -19,4 +19,9 @@
 # EC2
 ## Tipos de instâncias EC2
 - São os tipos de maquinas que tem disponiveis para utilizar - https://aws.amazon.com/pt/ec2/instance-types/
-### EBS
+
+### Volumes EBS (Elastic Block Store)
+- É o disco virtual da nossa maquina na EC2 - chamado de EBS 
+- facil upgrade
+- Dois tipos de disco
+- - teste

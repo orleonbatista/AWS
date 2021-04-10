@@ -26,3 +26,8 @@
 - Dois tipos de disco
 - - HDD - mais recomendados para armazenamento de arquivos, baixa IOPS
 - - SSD - mais utilizado normalmente para aplicações por ser mais rápido, rapida IOPS (IOI e GPS, IOI é o mais rapido e muito melhor)
+
+## EC2 Pricing
+- Toda cobrança na AWS é feita por segundo
+* 4 tipos :
+*

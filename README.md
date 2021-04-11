@@ -25,7 +25,8 @@
 - para acessar internet, precisa alterar Local Server > IE enhanced Security
 #### Linux
 - Permitir SSH porta 22 para conseguir acessar
-- 
+- Atualizar sudo su (alterar privilegio) > yum update -y (atualizar a maquina)
+- subir serviço httpd : yum install httpd -y , service httpd start (subir httpd), acessar pasta cd/var/www/html colocar index la
 
 ### Volumes EBS (Elastic Block Store)
 - É o disco virtual da nossa maquina na EC2 - chamado de EBS 

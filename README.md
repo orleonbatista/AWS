@@ -79,3 +79,13 @@
 #### Métricas customizadas
 
 # Load Balancer
+- Existem 3 tipos:
+#### Application
+- Mais inteligente, ele enxerga a layer 7  (OSI)
+- Conseguimos ver o que o usuário está acessando no webservice e direcionar a partir dessa informação
+#### Network
+- Camada 4, é possivel dividir a partir do tráfego
+#### Classic
+- Junção do network e do application, foi o primeiro criado pela AWS e não tem muita necessidade de utiliza-lo
+
+# AutoScaling

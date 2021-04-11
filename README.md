@@ -43,3 +43,6 @@
 ## VPC
 - VPC Padrão, cria uma VPC padrao com 3 subnets, cada uma em uma regiao de disponibilidade diferente
 
+# Security Group
+- como se fosse o firewall
+- recomendado criar especifico para cada tecnologia

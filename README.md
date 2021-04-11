@@ -89,3 +89,5 @@
 - Junção do network e do application, foi o primeiro criado pela AWS e não tem muita necessidade de utiliza-lo
 
 # AutoScaling
+- Cria novas instâncias de acordo com o tráfego de forma automática
+- Quando o tráfego diminui, ele também diminui as maquinas

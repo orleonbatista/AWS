@@ -91,3 +91,11 @@
 # AutoScaling
 - Cria novas instâncias de acordo com o tráfego de forma automática
 - Quando o tráfego diminui, ele também diminui as maquinas
+- possivel subir maquinas iguais
+- possivel colocar o máximo de maquinas
+#### 5 tipos de autoScaling
+- All times : manter as instâncias atuais sempre a todo tempo
+- Scale manually : define manualmente quantas instâncias (não muito usado)
+- Schedule : consegue agendar por exemplo, segunda a sexta 5 maquinas, e sabado e domingo 2 maquinas, também possivel por hora
+- on demand : de acordo com o processamento, passou do processamento é adicionado as maquinas
+- predictive : pega metricas de outros serviços e manda para o autoscaling

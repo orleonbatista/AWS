@@ -47,3 +47,6 @@
 - como se fosse o firewall
 - recomendado criar especifico para cada tecnologia
 - por padrão vem co entrada toda bloqueada e saida toda liberada
+- por padrão ping não é liberado
+- pode liberar acesso de outros security groups
+- recomendado sempre por uma descrição

@@ -78,7 +78,8 @@
 #### Escopo Regional
 #### Métricas customizadas
 
-# Load Balancer
+# Load Balancer (ELB)
+- Faz health check
 - Existem 3 tipos:
 #### Application
 - Mais inteligente, ele enxerga a layer 7  (OSI)

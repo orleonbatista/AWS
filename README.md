@@ -58,13 +58,13 @@
 # CloudWatch
 - Utilizado para monitoração e gerar metricas de recursos
 - ja vem ativo por default para todos serviços
-## Metricas
+#### Metricas
 - Monitorações
-## Dashboards
-## Alertas
+#### Dashboards
+#### Alertas
 - toda vez que alcance 80% dentro de 5 minutos mandar um alerta
 - não paga nada a mais por esses alertas
-## Eventos
-## Logs
-## Escopo Regional
-## Métricas customizadas
+#### Eventos
+#### Logs
+#### Escopo Regional
+#### Métricas customizadas

@@ -58,6 +58,7 @@
 # CloudWatch
 - Utilizado para monitoração e gerar metricas de recursos
 - ja vem ativo por default para todos serviços
+- colocar um agente, para esse agente pegar os logs das maquinas e jogar para o cloud watch
 #### Metricas
 - Monitorações
 #### Dashboards
@@ -65,6 +66,8 @@
 - toda vez que alcance 80% dentro de 5 minutos mandar um alerta
 - não paga nada a mais por esses alertas
 #### Eventos
+- toda vez que um servidor foi criado, enviar um email por exemplo
 #### Logs
+- possivel criar um alerta criado com base de algum log
 #### Escopo Regional
 #### Métricas customizadas

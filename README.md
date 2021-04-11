@@ -20,7 +20,9 @@
 ## Tipos de instâncias EC2 - https://aws.amazon.com/pt/ec2/instance-types/
 - São os tipos de maquinas que tem disponiveis para utilizar
 - para as maquinas se conversarem dentro da rede interna, se utiliza o private IP, para comunicar fora da rede usa o Public IP
-- 
+## Windows
+- para pegar acesso, selecionar a instância e clicar para pegar a senha
+- para acessar internet, precisa alterar Local Server > IE enhanced Security
 
 ### Volumes EBS (Elastic Block Store)
 - É o disco virtual da nossa maquina na EC2 - chamado de EBS 

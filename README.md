@@ -19,6 +19,8 @@
 # EC2 
 ## Tipos de instâncias EC2 - https://aws.amazon.com/pt/ec2/instance-types/
 - São os tipos de maquinas que tem disponiveis para utilizar
+- para as maquinas se conversarem dentro da rede interna, se utiliza o private IP, para comunicar fora da rede usa o Public IP
+- 
 
 ### Volumes EBS (Elastic Block Store)
 - É o disco virtual da nossa maquina na EC2 - chamado de EBS 
@@ -41,6 +43,8 @@
 - - - reserved 
 
 ## VPC
+- O Objetivo da VPC é provisionar uma rede isolada, mesmo considerando que estamos utilizando um ambiente na internet
+- cada VPC pode ter varias sub-redes, o que ajuda na organização da topologia do seu projeto
 - VPC Padrão, cria uma VPC padrao com 3 subnets, cada uma em uma regiao de disponibilidade diferente
 
 # Security Group
@@ -50,3 +54,10 @@
 - por padrão ping não é liberado
 - pode liberar acesso de outros security groups
 - recomendado sempre por uma descrição
+
+# CloudWatch
+- Utilizado para monitoração e gerar metricas de recursos
+- ja vem ativo por default para todos serviços
+# # Metricas
+- Monitorações
+# #

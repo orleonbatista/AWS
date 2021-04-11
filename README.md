@@ -46,3 +46,4 @@
 # Security Group
 - como se fosse o firewall
 - recomendado criar especifico para cada tecnologia
+- por padrão vem co entrada toda bloqueada e saida toda liberada

@@ -38,4 +38,8 @@
 - - Spot - Stock Market, você da uma oferta, mais ultilizado em um curto espaço de tempo
 - - Dedicated host - mais seguro, nele você "aluga" o hardware, com dois tipos:
 - - - on demand
-- - - reserved
+- - - reserved 
+
+## VPC
+- VPC Padrão, cria uma VPC padrao com 3 subnets, cada uma em uma regiao de disponibilidade diferente
+

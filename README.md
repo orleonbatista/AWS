@@ -124,3 +124,5 @@
 #### Designed for availability - disponibilidade do arquivo para acesso
 #### Availability SLA - indisponibilidade
 #### Lifecycle transitions - consegue agendar movimentações automaticas de Storage classes
+
+## S3 Pricing

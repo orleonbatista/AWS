@@ -108,3 +108,19 @@
 - não é possivel instalar O.S
 - arquivos de 0 bites até 5 TB, por arquivo
 - não possui limite bucket
+-
+## Storage classes
+- se você acessar menos aquele arquivo, você é cobrado menos
+- todas menos o One Zone, seus arquivos são colocados em > 3 aailability zones
+#### 6 tipos storage classes
+- S3 Standard :frequencia de movimentação do arquivo muito alta
+- S3 Inteligent Tiering :utilizando machine learning, ele maneja seus arquivos de acordo com a movimentação
+- S3 Standard IA : Acessa os arquivos +- uma vez por semana
+- S3 One Zone : em uma zona só
+- S3 Glacier : não consegue acessar o arquivo na mesma hora, pode demorar até horas, arquivos ficam nos cold datacenters, mais utilizados para backup
+- S3 Deep Archive : no minimo 12 horas para acessar o arquivo
+
+#### Durability - se o arquivo vai ser corrrompido ou infectado por um virus ou não
+#### Designed for availability - disponibilidade do arquivo para acesso
+#### Availability SLA - indisponibilidade
+#### Lifecycle transitions - consegue agendar movimentações automaticas de Storage classes

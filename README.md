@@ -128,4 +128,8 @@
 ## S3 Pricing
 - Cada Storage classes pagamos um valor
 - Paga pelo armazenamento do arquivo e pela transferência, tanto pelo download, quanto pelo upload
-- 
+
+# CloudFront - CDN
+- Faz um cópia para localizações mais proximas do seu publico
+- edge location - o usuario vai vir na edge location buscar o conteúdo do site, se não tiver la, a edge location vai no servidor que está o arquivo e copia-lo para ficar mais próximo do usuário, carregando mais rápido nos próximos acessos
+- - TTL - tempo que é configurado no edge location para o arquivo atualizar

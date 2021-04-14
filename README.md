@@ -101,8 +101,10 @@
 - on demand : de acordo com o processamento, passou do processamento é adicionado as maquinas
 - predictive : pega metricas de outros serviços e manda para o autoscaling
 
-# S3 - Simple Storage Service
+# S3 - Simple Storage Service https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - Sistema de armazenamento de videos, fotos, arquivos, onde podemos fazer o upload e download de objetos
 - Guardamos os arquivos dentro de um bucket
 - nome do bucket tem que ser unico no planeta
-- 
+- não é possivel instalar O.S
+- arquivos de 0 bites até 5 TB, por arquivo
+- não possui limite bucket

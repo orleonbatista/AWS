@@ -126,3 +126,6 @@
 #### Lifecycle transitions - consegue agendar movimentações automaticas de Storage classes
 
 ## S3 Pricing
+- Cada Storage classes pagamos um valor
+- Paga pelo armazenamento do arquivo e pela transferência, tanto pelo download, quanto pelo upload
+- 

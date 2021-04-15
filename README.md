@@ -133,3 +133,18 @@
 - Faz um cópia para localizações mais proximas do seu publico
 - edge location - o usuario vai vir na edge location buscar o conteúdo do site, se não tiver la, a edge location vai no servidor que está o arquivo e copia-lo para ficar mais próximo do usuário, carregando mais rápido nos próximos acessos
 - - TTL - tempo que é configurado no edge location para o arquivo atualizar
+
+# IAM ( Identity access management)
+
+# Billing and Pricing
+- Billing
+- - Pay as you go
+- - Use
+- - Pague menos por quanto mais utiliza
+- - Pague muito menos quando você reserva
+#### Capex vs Opex
+- Capex : Capital Expenditure, você paga antes de utilizar
+- Opex : Operational Expenditure, você paga de acordo com o que utiliza
+#### Budget vs Cost Explorer
+- budget : orçamento que voce tem. (antes que algo aconteça)
+- cost explorer: relatório de gastos (depois)

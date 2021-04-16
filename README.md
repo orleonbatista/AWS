@@ -135,6 +135,13 @@
 - - TTL - tempo que é configurado no edge location para o arquivo atualizar
 
 # IAM ( Identity access management)
+- Politicas de senha
+- Usuários, grupos, roles ()e politicas
+- JSON
+- Suporte a federação
+
+# AWS Organizations
+- Forma para gerenciar grupo de funcionarios e pessoas da empresa, possivel controlar e segmentar
 
 # Billing and Pricing
 - Billing
@@ -148,3 +155,6 @@
 #### Budget vs Cost Explorer
 - budget : orçamento que voce tem. (antes que algo aconteça)
 - cost explorer: relatório de gastos (depois)
+
+# Security
+

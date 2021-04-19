@@ -157,4 +157,8 @@
 - cost explorer: relatório de gastos (depois)
 
 # Security
+#### AWS Compliance - https://docs.aws.amazon.com/artifact/latest/ug/getting-started.html#create-iam-policy
+- aws possui diversos certificações de compliance
+#### Responsability Model (shared)
+#### AWS WAF e Shield
 
